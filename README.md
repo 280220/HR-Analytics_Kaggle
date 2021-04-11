@@ -5,7 +5,7 @@ Supervised Learning Competition in Kaggle: https://www.kaggle.com/c/datamexpt202
 
 A company dedicated to Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company.
 
-In this competition, I have predicted if a candidate will work for the company based on the current credentials, demographics and experience. The repository includes supervised learning modelling and the evaluation of the model.
+In this competition, I have predicted if a candidate will work for the company based on the current credentials, demographics and experience. 
 
 ## Evaluation
 
@@ -20,3 +20,7 @@ enrollee_id,target
 00000,1
 00001,0
 00002,0
+
+## Methodology
+
+The repository includes supervised learning modelling for this binary classification problem (Feature Engineering & XGBoost) and the evaluation of the model (AUC).
