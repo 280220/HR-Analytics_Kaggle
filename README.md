@@ -3,7 +3,7 @@ Supervised Learning Competition in Kaggle: https://www.kaggle.com/c/datamexpt202
 
 ## Description 
 
-A company dedicated to Big Data and Data Science wants to hire data scientists among people who successfully pass some courses which conduct by the company.
+A company dedicated to Big Data and Data Science wants to hire data scientists among people who successfully have passed some courses which have been conduct by the company.
 
 The competition aims at predicting if a candidate will work for the company based on the current credentials, demographics and experience. 
 
